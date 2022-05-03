@@ -1,5 +1,6 @@
 # compromyseos
 A simple operating system written in assembly
+![image](https://user-images.githubusercontent.com/71056504/166417707-d4c9437c-0c44-455c-8e70-ae00682675d2.png)
 
 # Running
 
